@@ -1,0 +1,3 @@
+wget -O Kreaturen.csv https://docs.google.com/spreadsheets/d/1EAiPKOtFJHQhb28NtJnwyo1s09UTiKCYTqcFPEWUORY/gviz/tq?tqx=out:csv&sheet=Kreaturen
+wget -O Orte.csv https://docs.google.com/spreadsheets/d/1EAiPKOtFJHQhb28NtJnwyo1s09UTiKCYTqcFPEWUORY/gviz/tq?tqx=out:csv&sheet=Orte
+wget -O Rüstung.csv https://docs.google.com/spreadsheets/d/1EAiPKOtFJHQhb28NtJnwyo1s09UTiKCYTqcFPEWUORY/gviz/tq?tqx=out:csv&sheet=Rüstung

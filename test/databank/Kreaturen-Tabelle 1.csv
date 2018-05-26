@@ -1,0 +1,83 @@
+Icon;Augen;Name;Ort;Beschreibung_DE;Beschreibung_EN;spielbar;Stufe;Lagerplatz;Gesundheit;Sichtbareslot;Rüstung1;Rüstung2;Rüstung3;Rüstung4;Rüstung5;Rüstung6
+;70,50,110,50;jowler;forst;;;FALSCH;1;Rechteck 1 2;6;1;dolch;schwert;axt;axt;dolch;schwert
+;48,56,138,46;exey;forst;;;FALSCH;1;Kreis 2;6;1;schwert;schwert;axt;axt;schwert;schwert
+;62,42;toady;forst;;;FALSCH;1;Rechteck 3 2;6;1;dolch;schwert;axt;axt;dolch;schwert
+;60,56,106,48;argpig;forst;;;FALSCH;2;Kreis 4;12;1;schwert;schwert;schwert;schwert;schwert;schwert
+;66,66,118,58;nosehead;forst;;;FALSCH;2;Rechteck 3 3;12;1;schwert;schwert;axt;axt;schwert;schwert
+;62,28;spake;forst;;;FALSCH;2;Rechteck 3 3;12;1;dolch;dolch;dolch;axt;dolch;dolch
+;58,38,120,34;frogflower;forst;;;FALSCH;3;Rechteck 4 3;18;1;schwert;schwert;axt;axt;schwert;schwert
+;86,74,98,68;hairdy;forst;;;FALSCH;3;Rechteck 4 3;18;1;schwert;schwert;axt;axt;schwert;schwert
+;80,68,102,58;mindin;forst;;;FALSCH;3;Rechteck 3 4;18;1;schwert;schwert;axt;axt;schwert;schwert
+;68,66,102,66;outraged;forst;;;FALSCH;3;Rechteck 4 3;18;1;schwert;schwert;axt;axt;schwert;schwert
+;38,40;tripletoad;forst;;;FALSCH;4;Rechteck 5 3;24;1;schwert;schwert;axt;axt;schwert;schwert
+;42,63,51,64;worm;forst;;;FALSCH;4;Rechteck 4 3;24;1;schwert;schwert;axt;axt;schwert;schwert
+;56,72,126,68;nash;forst;;;FALSCH;4;Rechteck 4 3;24;1;schwert;ring;axt;axt;schwert;ring
+;94,76;tendril;forst;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;;bosip;forst;;;FALSCH;5;Rechteck 5 4;30;1;schwert;dolch;dolch;dreizack;schwert;dolch
+;44,42,126,44;emm;hoehle;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;56,46,78,42;happs;hoehle;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;;jotwolk;hoehle;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;100,118,134,116;futsheen;hoehle;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;84,116,98,126;flobble;hoehle;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;66,108;lashes;hoehle;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;38,96,92,48,145,78;dryeye;hoehle;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;54,104,59,66,96,84,106,50,114,119;blol;hoehle;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;81,36,121,45;dwage;hoehle;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;100,104;evileye;hoehle;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;58,36,118,33;bidrag;hoehle;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;50,35,120,40;bifur;hoehle;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;72,62,118,70;timond;hoehle;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;68,66,114,86;token;hoehle;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;;baldy;hoehle;;;FALSCH;5;Rechteck 5 4;30;1;schwert;dolch;axt;axt;schwert;dolch
+;71,80,108,75;ban;insel;;;FALSCH;1;Kreis 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;134,80;fuschia;insel;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;;jallo;insel;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;132,114;trotz;insel;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;68,56,100,46;banangry;insel;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;81,41,98,42;dancen;insel;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;56,71,120,64;squiddy;insel;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;;crab;insel;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;48,44,130,138;mehi;insel;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;80,34,94,36;toofs;insel;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;122,64;wop;insel;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;66,52,106,50;octi;insel;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;80,86,104,98;pizzo;insel;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;50,126,118,126;shelly;insel;;;FALSCH;4;Rechteck 4 3;24;1;schwert;dolch;axt;axt;schwert;dolch
+;;handerfly;insel;;;FALSCH;5;Rechteck 5 3;30;1;schwert;dolch;axt;axt;schwert;dolch
+;87,89,101,89;cover;polar;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;76,54,114,54;panto;polar;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;90,86;butt;polar;;;FALSCH;1;Rechteck 2 2;6;1;schwert;dolch;axt;axt;schwert;dolch
+;44,97,136,96;betti;polar;;;FALSCH;2;Rechteck 3 4;12;1;schwert;dolch;axt;axt;schwert;dolch
+;56,148;flaj;polar;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;88,32,90,136;hgost;polar;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;52,78,112,48;tworl;polar;;;FALSCH;2;Rechteck 3 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;60,70,115,74;clava;polar;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;64,40,106,40;goner;polar;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;60,82,82,68,96,116,114,100;jaggy;polar;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;34,152,30,92,40,36,84,32,140,32,144,90,148,150;spokey;polar;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;24,96,142,106;wave;polar;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;76,44,112,42;fussee;polar;;;FALSCH;4;Rechteck 3 4;24;1;schwert;dolch;axt;axt;schwert;dolch
+;;pi;polar;;;FALSCH;4;Rechteck 2 3;24;1;dreizack;dolch;axt;axt;dreizack;dolch
+;34,62,68,36;shrage;polar;;;FALSCH;4;Rechteck 4 3;24;1;dreizack;dolch;axt;axt;dreizack;dolch
+;86,38;trobo;polar;;;FALSCH;5;Rechteck 5 4;30;1;dreizack;dolch;axt;axt;dreizack;dolch
+;76,70,120,68;catzy;steppen;;;FALSCH;1;Rechteck 2 2;6;1;dolch;dolch;axt;axt;dolch;dolch
+;134,58;froggy;steppen;;;FALSCH;1;Rechteck 2 2;6;1;dolch;dolch;axt;axt;dolch;dolch
+;;ruube;steppen;;;FALSCH;1;Rechteck 2 2;6;1;dolch;dolch;axt;axt;dolch;dolch
+;54,108;eyeman;steppen;;;FALSCH;2;Rechteck 3 3;12;1;dolch;dolch;axt;axt;dolch;dolch
+;82,116,130,90;krown;steppen;;;FALSCH;2;Rechteck 3 3;12;1;dolch;dolch;axt;axt;dolch;dolch
+;80,110,96,108;stair;steppen;;;FALSCH;2;Rechteck 3 3;12;1;dolch;dolch;axt;axt;dolch;dolch
+;64,78,110,76;upside;steppen;;;FALSCH;2;Rechteck 3 3;12;1;dolch;dolch;axt;axt;dolch;dolch
+;;hairman;steppen;;;FALSCH;2;Rechteck 4 3;12;1;schwert;dolch;axt;axt;schwert;dolch
+;82,53,115,55;boxy;steppen;;;FALSCH;3;Rechteck 4 3;18;1;dolch;dolch;axt;axt;dolch;dolch
+;134,74;hedgey;steppen;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;106,34,122,38;nosema;steppen;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;66,64,104,106;prikkel;steppen;;;FALSCH;3;Rechteck 4 3;18;1;schwert;dolch;axt;axt;schwert;dolch
+;94,80;nasen;steppen;;;FALSCH;4;Rechteck 4 3;24;1;schwert;schwert;axt;axt;schwert;schwert
+;132,38;walker;steppen;;;FALSCH;4;Rechteck 4 3;24;1;dolch;dolch;heilung;axt;dolch;dolch
+;72,44;hond;steppen;;;FALSCH;4;Rechteck 4 3;24;1;schwert;ring;axt;axt;schwert;ring
+;56,74,116,76;terra;steppen;;;FALSCH;4;Rechteck 4 3;24;1;dreizack;dreizack;axt;dolch;dreizack;dreizack
+;72,68,98,60;earsy;steppen;;;FALSCH;5;Rechteck 5 4;30;1;axt;axt;heilung;heilung;axt;axt
+;76,82,96,82;sitking;;So einschüchternd groß!;A monstrous being.;WAHR;0;Rechteck 3 3;100;2;axt;schwert;axt;dolch;axt;schwert
+;58,126,94,82,126,124;tripove;;Er hat ein armes Leben :(;He has a miserable life :(;WAHR;0;Rechteck 1 4;30;3;axt;schwert;axt;heilung;axt;schwert
+;;unimout;;Lecker!;Delicious!;WAHR;0;Rechteck 5 4;20;1;dolch;dolch;dolch;heilung;dolch;dolch
+;90,114;wiking;;Was für einen Held!;What a hero!;WAHR;0;Kreis 2;20;1;dreizack;heilung;axt;heilung;dreizack;heilung

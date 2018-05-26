@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <set name="windowwidth" value="320" />
+  <set name="windowheight" value="320" />
+  
+	<meta 
+    title="Ruestug" 
+    package="com.increpare.Schwung" 
+    version="1.0.0" 
+    company="increpare games" 
+  />
+  
+  <app swf-version="17.0" if="flash"/>
+	<app 
+      main="haxegon.Load"
+      path="bin" 
+      file="Schwung" 
+   />
+
+  <window width="${windowwidth}" height="${windowheight}" if="flash || cpp || neko"></window>
+  <window width="${windowwidth}" height="${windowheight}" if="html5 || mobile"></window>
+	  
+	<window
+      fps="30"
+      background="0x000000"
+      orientation="landscape"
+      hardware="true"
+      vsync="true"
+      allow-high-dpi="true"
+   ></window>
+   
+	<source path="src" />
+	<source path="plugins" />
+  
+	<haxelib name="openfl" />
+	<haxelib name="haxegon" />
+	<haxelib name="compiletime" />
+	<haxelib name="actuate" />
+
+  <haxedef name="windowwidth" value="${windowwidth}" />
+  <haxedef name="windowheight" value="${windowheight}" />
+
+  
+  <haxeflag name="--connect" value="6000"/>
+  <haxeflag name="--macro" value="keep('faehigkeit.*',true)" />
+
+	<assets path="data" exclude="*.mp3" if="cpp || neko"/>
+	<assets path="data" exclude="*.ogg" if="flash"/>
+	<assets path="data" if="html5"/>
+	
+	<icon path="data/icon.png"/>
+</project>

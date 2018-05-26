@@ -1,0 +1,255 @@
+{
+	"sheets": [
+		{
+			"name": "Kreaturen",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "Name"
+				},
+				{
+					"typeStr": "7",
+					"name": "Bild",
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "Spielbar"
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_DE",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_EN",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"Name": "argpig",
+					"Beschreibung_DE": "asd",
+					"Beschreibung_EN": "asdf",
+					"Spielbar": true,
+					"Bild": "e963e0eb70e3a434223f9239976baadd"
+				},
+				{
+					"Name": "d",
+					"Beschreibung_DE": "fasdf",
+					"Beschreibung_EN": "asdf",
+					"Spielbar": false,
+					"Bild": "cf7720d89481f78a055a488f0a68036c"
+				},
+				{
+					"Name": "ban",
+					"Beschreibung_DE": "dfasdfas",
+					"Beschreibung_EN": "asdf",
+					"Spielbar": true,
+					"Bild": ""
+				},
+				{
+					"Name": "asdfasdf",
+					"Beschreibung_DE": "a",
+					"Beschreibung_EN": "asdf",
+					"Spielbar": false,
+					"Bild": "edbf22a8f6db008d43070c61323dd553"
+				},
+				{
+					"Name": "betti",
+					"Beschreibung_DE": "fasf",
+					"Beschreibung_EN": "asdf",
+					"Spielbar": false,
+					"Bild": ""
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "Orte",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "Name"
+				},
+				{
+					"typeStr": "1",
+					"name": "Name_DE",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Name_EN",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_DE",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_EN",
+					"display": null
+				},
+				{
+					"typeStr": "6:Kreaturen",
+					"name": "Boss",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "Kreaturen"
+				}
+			],
+			"lines": [
+				{
+					"Name_DE": "Forst",
+					"Name_EN": "Forest",
+					"Beschreibung_DE": "asdf",
+					"Beschreibung_EN": " asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asf aef ewf ewf",
+					"Name": "forst",
+					"Boss": "argpig",
+					"Kreaturen": [
+						{
+							"123": "argpig"
+						},
+						{
+							"123": "d"
+						}
+					]
+				},
+				{
+					"Name_DE": "Höhle",
+					"Name_EN": "Cavern",
+					"Beschreibung_DE": "s",
+					"Beschreibung_EN": "asd",
+					"Name": "hoehle",
+					"Boss": "d",
+					"Kreaturen": [
+						{
+							"123": "asdfasdf"
+						},
+						{
+							"123": "ban"
+						}
+					]
+				},
+				{
+					"Name_DE": "Polar",
+					"Name_EN": "Polar",
+					"Beschreibung_DE": "s",
+					"Beschreibung_EN": "dasd",
+					"Name": "polar",
+					"Boss": "argpig",
+					"Kreaturen": [
+						{
+							"123": "ban"
+						},
+						{
+							"123": "betti"
+						}
+					]
+				},
+				{
+					"Name_DE": "Steppen",
+					"Name_EN": "Steppes",
+					"Beschreibung_DE": "aasf",
+					"Beschreibung_EN": "asd",
+					"Name": "steppen",
+					"Boss": "asdfasdf",
+					"Kreaturen": [
+						{
+							"123": "argpig"
+						},
+						{
+							"123": "ban"
+						},
+						{
+							"123": "asdfasdf"
+						}
+					]
+				},
+				{
+					"Name_DE": "Minen",
+					"Name_EN": "Mines asdf ",
+					"Beschreibung_DE": "tief",
+					"Beschreibung_EN": "deep",
+					"Name": "bergwerk",
+					"Boss": "argpig",
+					"Kreaturen": [
+						{
+							"123": "d"
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "Orte@Kreaturen",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "6:Kreaturen",
+					"name": "123",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "Waffen",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "Name"
+				},
+				{
+					"typeStr": "1",
+					"name": "Druckname_DE",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Druckname_EN",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_DE",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "Beschreibung_EN",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "shape"
+				}
+			],
+			"lines": [
+				{
+					"Name": "schwert",
+					"Druckname_DE": "Schwert",
+					"Druckname_EN": "Sword",
+					"Beschreibung_DE": "Scharf",
+					"Beschreibung_EN": "sharp!",
+					"shape": "1101"
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": true
+}

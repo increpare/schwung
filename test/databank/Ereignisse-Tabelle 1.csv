@@ -1,0 +1,13 @@
+;spielerspezifisch;abbrechbar;input;input;input;output
+beginnZug;WAHR;WAHR;;;;
+endZug;WAHR;FALSCH;;;;
+preDisplayItems;WAHR;FALSCH;;;;
+postDisplayItems;WAHR;FALSCH;;;;
+spielerSchaden;WAHR;FALSCH;amount;;;
+itemtooltip;WAHR;FALSCH;;;;
+effektStatus;WAHR;FALSCH;ikon;beschreibung;lifetime;
+canPlaceAt;WAHR;FALSCH;placement;;;list of invalid places
+try Place at;WAHR;WAHR;placement;;;
+onPlaceSelf;FALSCH;FALSCH;;;;
+onPlaceItem;WAHR;WAHR;;;;
+;FALSCH;FALSCH;;;;
